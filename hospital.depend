@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1626377489 source:c:\users\hp\desktop\hospital\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+
